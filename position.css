@@ -1,0 +1,19 @@
+.absolute{
+    background: magenta;
+    position: absolute;
+    left: 40px;
+    padding: 10px;
+}
+
+.static{
+    background: rgb(70, 101, 195);
+    position: static;
+    left: 40x;
+    padding: 10px;
+}
+.fixed{
+    background: rgb(29, 230, 59);
+    position: fixed;
+    left: 40x;
+    padding: 10px;
+}
